@@ -1,0 +1,163 @@
+{
+  "Mnichovice": {
+    "lat": 49.9360307,
+    "lon": 14.7096851,
+    "precision": "town",
+    "label": "Mnichovice",
+    "sourceUrl": "https://www.openstreetmap.org/relation/437902"
+  },
+  "Klokočná": {
+    "lat": 49.9563236,
+    "lon": 14.7195535,
+    "precision": "town",
+    "label": "Klokočná",
+    "sourceUrl": "https://www.openstreetmap.org/relation/437112"
+  },
+  "Všestary": {
+    "lat": 49.9558322,
+    "lon": 14.6870198,
+    "precision": "town",
+    "label": "Všestary",
+    "sourceUrl": "https://www.openstreetmap.org/relation/437958"
+  },
+  "Říčany": {
+    "lat": 49.9919444,
+    "lon": 14.6542365,
+    "precision": "town",
+    "label": "Říčany",
+    "sourceUrl": "https://www.openstreetmap.org/relation/436100"
+  },
+  "Struhařov": {
+    "lat": 49.9519235,
+    "lon": 14.7444342,
+    "precision": "town",
+    "label": "Struhařov",
+    "sourceUrl": "https://www.openstreetmap.org/relation/436104"
+  },
+  "Tehov": {
+    "lat": 49.9776809,
+    "lon": 14.7032777,
+    "precision": "town",
+    "label": "Tehov",
+    "sourceUrl": "https://www.openstreetmap.org/relation/437866"
+  },
+  "Mukařov": {
+    "lat": 49.9910675,
+    "lon": 14.7421272,
+    "precision": "town",
+    "label": "Mukařov",
+    "sourceUrl": "https://www.openstreetmap.org/relation/436112"
+  },
+  "Louňovice": {
+    "lat": 49.9822632,
+    "lon": 14.7617424,
+    "precision": "town",
+    "label": "Louňovice",
+    "sourceUrl": "https://www.openstreetmap.org/relation/437188"
+  },
+  "Hrusice": {
+    "lat": 49.9114356,
+    "lon": 14.7395227,
+    "precision": "town",
+    "label": "Hrusice",
+    "sourceUrl": "https://www.openstreetmap.org/relation/437181"
+  },
+  "Chocerady": {
+    "lat": 49.8729023,
+    "lon": 14.8020685,
+    "precision": "town",
+    "label": "Chocerady",
+    "sourceUrl": "https://www.openstreetmap.org/relation/441468"
+  },
+  "Ondřejov": {
+    "lat": 49.9045659,
+    "lon": 14.7831213,
+    "precision": "town",
+    "label": "Ondřejov",
+    "sourceUrl": "https://www.openstreetmap.org/relation/436115"
+  },
+  "Samechov": {
+    "lat": 49.8758318,
+    "lon": 14.8472914,
+    "precision": "town",
+    "label": "Samechov",
+    "sourceUrl": "https://www.openstreetmap.org/relation/428439"
+  },
+  "Velké Popovice": {
+    "lat": 49.9224718,
+    "lon": 14.6390582,
+    "precision": "town",
+    "label": "Velké Popovice",
+    "sourceUrl": "https://www.openstreetmap.org/relation/437951"
+  },
+  "Všechromy": {
+    "lat": 49.9487219,
+    "lon": 14.6508441,
+    "precision": "town",
+    "label": "Všechromy",
+    "sourceUrl": "https://www.openstreetmap.org/relation/21028161"
+  },
+  "Kunice": {
+    "lat": 49.9260951,
+    "lon": 14.6776948,
+    "precision": "town",
+    "label": "Kunice",
+    "sourceUrl": "https://www.openstreetmap.org/relation/437185"
+  },
+  "Kamenice": {
+    "lat": 49.9015074,
+    "lon": 14.5825485,
+    "precision": "town",
+    "label": "Kamenice",
+    "sourceUrl": "https://www.openstreetmap.org/relation/436114"
+  },
+  "Mirošovice": {
+    "lat": 49.9129374,
+    "lon": 14.7114461,
+    "precision": "town",
+    "label": "Mirošovice",
+    "sourceUrl": "https://www.openstreetmap.org/relation/437901"
+  },
+  "venue-museum": {
+    "lat": 49.9928801,
+    "lon": 14.6630381,
+    "precision": "venue",
+    "label": "Muzeum Říčany",
+    "sourceUrl": "https://www.openstreetmap.org/way/61856099"
+  },
+  "venue-lada": {
+    "lat": 49.9052402,
+    "lon": 14.7366194,
+    "precision": "venue",
+    "label": "Památník Josefa Lady, Hrusice",
+    "sourceUrl": "https://www.openstreetmap.org/way/146617092"
+  },
+  "venue-vsechromy": {
+    "lat": 49.9490963,
+    "lon": 14.6510688,
+    "precision": "venue",
+    "label": "Všechromy 40",
+    "sourceUrl": "https://www.openstreetmap.org/node/1427535441"
+  },
+  "venue-ricanynam": {
+    "lat": 49.9918333,
+    "lon": 14.655608,
+    "precision": "venue",
+    "label": "Masarykovo náměstí, Říčany",
+    "sourceUrl": "https://www.openstreetmap.org/way/1547994877"
+  },
+  "venue-mnichnam": {
+    "lat": 49.9357768,
+    "lon": 14.7095457,
+    "precision": "venue",
+    "label": "venue-mnichnam",
+    "sourceUrl": "https://www.openstreetmap.org/way/5095117"
+  },
+  "venue-msmnich": {
+    "lat": 49.9369981,
+    "lon": 14.7053537,
+    "precision": "venue",
+    "label": "MŠ Mnichovice, Tyršova",
+    "sourceUrl": "https://www.openstreetmap.org/node/13970695789"
+  }
+}

@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+node_modules/
+tests-ui/*.png
+.wrangler/
+.env
+*.local.*
